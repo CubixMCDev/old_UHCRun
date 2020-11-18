@@ -1,0 +1,8 @@
+name: UHCRun
+version: 1.0
+author: ZelphixSama
+main: eu.cubixmc.com.Main
+load: startup
+commands:
+  uhc:
+    description: Ouais
